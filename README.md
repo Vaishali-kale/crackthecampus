@@ -1,13 +1,10 @@
 CrackTheCampus – Frontend Developer Assignment
-
-
 🚀 Overview
-
 CrackTheCampus is a platform designed to help students prepare for placements, internships, and competitive aptitude tests.
 This project is a React + Tailwind CSS landing page built entirely from scratch, focusing on product design intuition, frontend engineering proficiency, and attention to detail.
 
 📂 Folder Structure
-
+Code
 crackthecampus/
 ├── public/
 │   └── index.html
@@ -27,9 +24,7 @@ crackthecampus/
 ├── postcss.config.js
 ├── package.json
 └── README.md
-
 🛠️ Tech Stack
-
 React – Component‑based architecture
 
 Tailwind CSS – Utility‑first styling
@@ -69,7 +64,7 @@ Extra Initiative – Hover states, transitions, dark mode toggle, loading skelet
 🌐 Deployment
 GitHub Repo: https://github.com/Vaishali-kale/crackthecampus (github.com in Bing)
 
-Netlify Live Demo: https://crackthecampus.netlify.app (replace with your actual Netlify link after deployment)
+Netlify Live Demo: https://tourmaline-lebkuchen-94bd1b.netlify.app/
 
 📌 Assumptions
 Content (testimonials, company logos, statistics) uses placeholder data.
@@ -77,3 +72,20 @@ Content (testimonials, company logos, statistics) uses placeholder data.
 Deployment uses free tier hosting (Netlify).
 
 No backend integration required for this assignment.
+
+🖥️ How to Run Locally
+Clone the repo:
+
+bash
+git clone https://github.com/Vaishali-kale/crackthecampus.git
+Install dependencies:
+
+bash
+npm install
+Start development server:
+
+bash
+npm start
+Open http://localhost:3000 in your browser.
+
+✅ With this README, your repo is complete and submission‑ready.
